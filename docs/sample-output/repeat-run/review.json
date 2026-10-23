@@ -1,0 +1,272 @@
+[
+  {
+    "record": 1,
+    "order_id": "ORD-001",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-001",
+      "order_date": "2026-08-02",
+      "customer": "Demo Retail A",
+      "product": "Router",
+      "quantity": "2",
+      "unit_price": "149.50",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 2,
+    "order_id": "ORD-002",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-002",
+      "order_date": "2026-08-05",
+      "customer": "Demo Retail B",
+      "product": "Switch",
+      "quantity": "3",
+      "unit_price": "89.00",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 3,
+    "order_id": "ORD-003",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-003",
+      "order_date": "2026-08-12",
+      "customer": "Demo Retail C",
+      "product": "Access Point",
+      "quantity": "5",
+      "unit_price": "79.90",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 4,
+    "order_id": "ORD-004",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-004",
+      "order_date": "2026-08-20",
+      "customer": "Demo Retail D",
+      "product": "Patch Cable",
+      "quantity": "20",
+      "unit_price": "6.50",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 5,
+    "order_id": "ORD-005",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-005",
+      "order_date": "2026-09-03",
+      "customer": "Demo Retail A",
+      "product": "Router",
+      "quantity": "4",
+      "unit_price": "149.50",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 6,
+    "order_id": "ORD-006",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-006",
+      "order_date": "2026-09-09",
+      "customer": "Demo Retail E",
+      "product": "Switch",
+      "quantity": "6",
+      "unit_price": "89.00",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 7,
+    "order_id": "ORD-007",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-007",
+      "order_date": "2026-09-16",
+      "customer": "Demo Retail F",
+      "product": "Access Point",
+      "quantity": "8",
+      "unit_price": "79.90",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 8,
+    "order_id": "ORD-008",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-008",
+      "order_date": "2026-09-25",
+      "customer": "Demo Retail G",
+      "product": "Patch Cable",
+      "quantity": "30",
+      "unit_price": "6.50",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 9,
+    "order_id": "ORD-009",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-009",
+      "order_date": "2026-10-02",
+      "customer": "Demo Retail H",
+      "product": "Router",
+      "quantity": "5",
+      "unit_price": "149.50",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 10,
+    "order_id": "ORD-010",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-010",
+      "order_date": "2026-10-08",
+      "customer": "Demo Retail I",
+      "product": "Switch",
+      "quantity": "8",
+      "unit_price": "89.00",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 11,
+    "order_id": "ORD-011",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-011",
+      "order_date": "2026-10-15",
+      "customer": "Demo Retail J",
+      "product": "Access Point",
+      "quantity": "10",
+      "unit_price": "79.90",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 12,
+    "order_id": "ORD-012",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-012",
+      "order_date": "2026-10-20",
+      "customer": "Demo Retail A",
+      "product": "Patch Cable",
+      "quantity": "50",
+      "unit_price": "6.50",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 13,
+    "order_id": "ORD-002",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-002",
+      "order_date": "2026-08-05",
+      "customer": "Demo Retail B",
+      "product": "Switch",
+      "quantity": "3",
+      "unit_price": "89.00",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 14,
+    "order_id": "ORD-009",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-009",
+      "order_date": "2026-10-02",
+      "customer": "Demo Retail H",
+      "product": "Router",
+      "quantity": "5",
+      "unit_price": "149.50",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 15,
+    "order_id": "ORD-013",
+    "reason": "order_date: use YYYY-MM-DD; ambiguous dates need review",
+    "decision": "rejected",
+    "raw": {
+      "order_id": "ORD-013",
+      "order_date": "10/12/2026",
+      "customer": "Demo Retail K",
+      "product": "Router",
+      "quantity": "1",
+      "unit_price": "149.50",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 16,
+    "order_id": "ORD-014",
+    "reason": "quantity: positive integer, maximum 999999",
+    "decision": "rejected",
+    "raw": {
+      "order_id": "ORD-014",
+      "order_date": "2026-10-21",
+      "customer": "Demo Retail L",
+      "product": "Switch",
+      "quantity": "-2",
+      "unit_price": "89.00",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 17,
+    "order_id": "ORD-015",
+    "reason": "currency: expected USD; no currency conversion is performed",
+    "decision": "rejected",
+    "raw": {
+      "order_id": "ORD-015",
+      "order_date": "2026-10-22",
+      "customer": "Demo Retail M",
+      "product": "Access Point",
+      "quantity": "2",
+      "unit_price": "79.90",
+      "currency": "EUR"
+    }
+  },
+  {
+    "record": 18,
+    "order_id": "ORD-003",
+    "reason": "order_id: conflicts with stored record; review before updating",
+    "decision": "rejected",
+    "raw": {
+      "order_id": "ORD-003",
+      "order_date": "2026-08-12",
+      "customer": "Demo Retail C",
+      "product": "Access Point",
+      "quantity": "6",
+      "unit_price": "79.90",
+      "currency": "USD"
+    }
+  }
+]

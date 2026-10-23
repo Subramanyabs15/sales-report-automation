@@ -1,0 +1,19 @@
+order_id,order_date,customer,product,quantity,unit_price,currency
+ORD-001,2026-08-02,Demo Retail A,Router,2,149.50,USD
+ORD-002,2026-08-05,Demo Retail B,Switch,3,89.00,USD
+ORD-003,2026-08-12,Demo Retail C,Access Point,5,79.90,USD
+ORD-004,2026-08-20,Demo Retail D,Patch Cable,20,6.50,USD
+ORD-005,2026-09-03,Demo Retail A,Router,4,149.50,USD
+ORD-006,2026-09-09,Demo Retail E,Switch,6,89.00,USD
+ORD-007,2026-09-16,Demo Retail F,Access Point,8,79.90,USD
+ORD-008,2026-09-25,Demo Retail G,Patch Cable,30,6.50,USD
+ORD-009,2026-10-02,Demo Retail H,Router,5,149.50,USD
+ORD-010,2026-10-08,Demo Retail I,Switch,8,89.00,USD
+ORD-011,2026-10-15,Demo Retail J,Access Point,10,79.90,USD
+ORD-012,2026-10-20,Demo Retail A,Patch Cable,50,6.50,USD
+ORD-002,2026-08-05,Demo Retail B,Switch,3,89.00,USD
+ORD-009,2026-10-02,Demo Retail H,Router,5,149.50,USD
+ORD-013,10/12/2026,Demo Retail K,Router,1,149.50,USD
+ORD-014,2026-10-21,Demo Retail L,Switch,-2,89.00,USD
+ORD-015,2026-10-22,Demo Retail M,Access Point,2,79.90,EUR
+ORD-003,2026-08-12,Demo Retail C,Access Point,6,79.90,USD

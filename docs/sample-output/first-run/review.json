@@ -1,0 +1,92 @@
+[
+  {
+    "record": 13,
+    "order_id": "ORD-002",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-002",
+      "order_date": "2026-08-05",
+      "customer": "Demo Retail B",
+      "product": "Switch",
+      "quantity": "3",
+      "unit_price": "89.00",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 14,
+    "order_id": "ORD-009",
+    "reason": "Exact duplicate skipped",
+    "decision": "duplicate",
+    "raw": {
+      "order_id": "ORD-009",
+      "order_date": "2026-10-02",
+      "customer": "Demo Retail H",
+      "product": "Router",
+      "quantity": "5",
+      "unit_price": "149.50",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 15,
+    "order_id": "ORD-013",
+    "reason": "order_date: use YYYY-MM-DD; ambiguous dates need review",
+    "decision": "rejected",
+    "raw": {
+      "order_id": "ORD-013",
+      "order_date": "10/12/2026",
+      "customer": "Demo Retail K",
+      "product": "Router",
+      "quantity": "1",
+      "unit_price": "149.50",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 16,
+    "order_id": "ORD-014",
+    "reason": "quantity: positive integer, maximum 999999",
+    "decision": "rejected",
+    "raw": {
+      "order_id": "ORD-014",
+      "order_date": "2026-10-21",
+      "customer": "Demo Retail L",
+      "product": "Switch",
+      "quantity": "-2",
+      "unit_price": "89.00",
+      "currency": "USD"
+    }
+  },
+  {
+    "record": 17,
+    "order_id": "ORD-015",
+    "reason": "currency: expected USD; no currency conversion is performed",
+    "decision": "rejected",
+    "raw": {
+      "order_id": "ORD-015",
+      "order_date": "2026-10-22",
+      "customer": "Demo Retail M",
+      "product": "Access Point",
+      "quantity": "2",
+      "unit_price": "79.90",
+      "currency": "EUR"
+    }
+  },
+  {
+    "record": 18,
+    "order_id": "ORD-003",
+    "reason": "order_id: conflicts with stored record; review before updating",
+    "decision": "rejected",
+    "raw": {
+      "order_id": "ORD-003",
+      "order_date": "2026-08-12",
+      "customer": "Demo Retail C",
+      "product": "Access Point",
+      "quantity": "6",
+      "unit_price": "79.90",
+      "currency": "USD"
+    }
+  }
+]

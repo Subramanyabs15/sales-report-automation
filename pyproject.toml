@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sales-report-automation"
+version = "1.0.0"
+description = "Validated sales imports from REST APIs, CSV and Excel into repeatable reports"
+requires-python = ">=3.11"
+dependencies = ["openpyxl>=3.1.5,<4"]
+
+[project.scripts]
+sales-report = "sales_report.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["sales_report*"]
